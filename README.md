@@ -8,10 +8,6 @@
 <span>
  </span> </br> </br>
 
-
-
-## AICalculator Apart
-
 AICalculator stands out from the crowd for several reasons:
 
 - **Easy portability**
